@@ -1,4 +1,4 @@
-package uz.bakhromjon.user;
+package uz.bakhromjon.digitalocean.user;
 
 import lombok.*;
 

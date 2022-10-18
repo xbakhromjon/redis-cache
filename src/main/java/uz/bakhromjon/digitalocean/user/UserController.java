@@ -1,7 +1,6 @@
-package uz.bakhromjon.user;
+package uz.bakhromjon.digitalocean.user;
 
 import lombok.RequiredArgsConstructor;
-import org.apache.catalina.User;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.cache.annotation.CacheEvict;

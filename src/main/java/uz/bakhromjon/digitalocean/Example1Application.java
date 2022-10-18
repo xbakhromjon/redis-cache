@@ -1,4 +1,4 @@
-package uz.bakhromjon;
+package uz.bakhromjon.digitalocean;
 
 import lombok.RequiredArgsConstructor;
 import org.slf4j.Logger;
@@ -7,8 +7,8 @@ import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cache.annotation.EnableCaching;
-import uz.bakhromjon.user.Users;
-import uz.bakhromjon.user.UserRepository;
+import uz.bakhromjon.digitalocean.user.Users;
+import uz.bakhromjon.digitalocean.user.UserRepository;
 
 
 @SpringBootApplication
